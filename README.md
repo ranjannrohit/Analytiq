@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Analytiq — AI Powered Business Analytics & Automation Platform
 
 > Production-ready SaaS frontend built with React 19 + TypeScript + Tailwind CSS
@@ -134,3 +135,7 @@ async getAll(params) {
 ---
 
 *Built for production. Scalable to thousands of businesses.*
+=======
+# Analytiq
+AI Powered Business Analytics &amp; Automation Platform
+>>>>>>> 7be4ebd1a104297dd6e2a9d578fcd058c1365ebd
